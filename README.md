@@ -7,32 +7,32 @@ This project analyzes residential property sales data from 2001 to 2020 to under
 ## Business Problem
 Investors and real estate businesses face several important questions when entering the housing market:
 
-Which towns have the highest real estate activity?
+- Which towns have the highest real estate activity?
 
-Which locations have the most expensive properties?
+- Which locations have the most expensive properties?
 
-Where are land and property prices relatively lower?
+- Where are land and property prices relatively lower?
 
-How can investors identify areas that may offer better opportunities for investment?
+- How can investors identify areas that may offer better opportunities for investment?
 
-What future trends might affect property pricing?
+- What future trends might affect property pricing?
 
 Without clear analysis, it becomes difficult to make informed investment decisions.
 
 ## Objective of the Analysis
 The objective of this project is to analyze historical real estate sales data and identify useful market trends that can support investment planning and pricing strategies.
 
-The analysis focuses on:
+- The analysis focuses on:
 
-Identifying towns with high property demand
+- Identifying towns with high property demand
 
-Comparing housing prices across different towns
+- Comparing housing prices across different towns
 
-Understanding price differences per square foot
+- Understanding price differences per square foot
 
-Analyzing market activity levels
+- Analyzing market activity levels
 
-Forecasting future property price trends
+- Forecasting future property price trends
 
 ## Data Analysis Process
 
@@ -40,19 +40,19 @@ The dataset was analyzed using Microsoft Excel. Several Excel tools were used to
 
 The main steps includes;
 
-Cleaning and organizing the dataset
+- Cleaning and organizing the dataset
 
-Creating pivot tables to summarize property sales data
+- Creating pivot tables to summarize property sales data
 
-Calculating key performance indicators (KPIs)
+- Calculating key performance indicators (KPIs)
 
-Building interactive charts and filters
+- Building interactive charts and filters
 
-Using slicers and timeline filters to explore the data by town, property type and year
+- Using slicers and timeline filters to explore the data by town, property type and year
 
-Applying Excel forecasting tools to estimate future housing price trends
+- Applying Excel forecasting tools to estimate future housing price trends
 
-Designing an interactive dashboard to present the results clearly
+- Designing an interactive dashboard to present the results clearly
 
 ## Key Insights
 ### Average House Price
