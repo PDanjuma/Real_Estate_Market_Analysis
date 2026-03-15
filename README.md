@@ -20,7 +20,7 @@ Investors and real estate businesses face several important questions when enter
 Without clear analysis, it becomes difficult to make informed investment decisions.
 
 ## Objective of the Analysis
-The objective of this project is to analyze historical real estate sales data and identify useful market trends that can support investment planning and pricing strategies.
+The objective of this project is to analyze historical real estate sales data and identify market trends that can support investment planning and pricing strategies.
 
 - The analysis focuses on:
 
