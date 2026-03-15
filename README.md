@@ -76,8 +76,8 @@ to other towns.
 lower price per square foot.
 
 - #### Property Type Distribution
-The distribution of property sales shows that **single-family homes and townhouses** represent the largest portion of the market, indictaing
-buyer preference toward larger residential property types.
+The distribution of property sales shows that **townhouses and apartments** represent the largest portion of the market, 
+indictaing these property types are in high demand or most popular among buyers.
 
 - #### Forcasting Property Market Trends
 The forecast predicts that average property prices will likely remain stable around **$497,000** in the coming years. 
