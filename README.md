@@ -56,33 +56,33 @@ The main steps includes;
 
 ## Key Insights
 - #### Average House Price
-The average property price across the dataset is approximately **$500,619**. This indicates that the real estate market
-maintains relatively high property values across the towns analyzed.
+  The average property price across the dataset is approximately **$500,619**. This indicates that the real estate market
+  maintains relatively high property values across the towns analyzed.
 
 - #### Total Houses Sold
-A total of **4,901** property sales were recorded. New Haven and Hartford appear to have the highest number of transactions, 
-indicating stronger market activity in those towns.
+  A total of **4,901** property sales were recorded. New Haven and Hartford appear to have the highest number of transactions, 
+  indicating stronger market activity in those towns.
 
 - #### Highest Price per Square Foot
-**Stamford and Norwalk** have the highest property values per square foot, suggesting these towns have the most expensive real estate market
-relative to property size. In contrast, **Danbury and New Haven** show lower price per square foot, indicating more affordable housing markets.
+  **Stamford and Norwalk** have the highest property values per square foot, suggesting these towns have the most expensive real estate market
+  relative to property size. In contrast, **Danbury and New Haven** show lower price per square foot, indicating more affordable housing markets.
 
 - #### Most Expensive Town
-**Norwalk** appears as the most expensive town based on average property prices. This suggests higher value properties in that area compared
-to other towns.
+  **Norwalk** appears as the most expensive town based on average property prices. This suggests higher value properties in that area compared
+  to other towns.
 
 - #### Top Selling Town
-**New Haven** recorded the highest number of property sales, indicating strong market activity and demand, which maybe driven by 
-lower price per square foot.
+  **New Haven** recorded the highest number of property sales, indicating strong market activity and demand, which maybe driven by 
+  lower price per square foot.
 
 - #### Property Type Distribution
-The distribution of property sales shows that **townhouses and apartments** represent the largest portion of the market, 
-indictaing these property types are in high demand or most popular among buyers.
+  The distribution of property sales shows that **townhouses and apartments** represent the largest portion of the market, 
+  indictaing these property types are in high demand or most popular among buyers.
 
 - #### Forcasting Property Market Trends
-The forecast predicts that average property prices will likely remain stable around **$497,000** in the coming years. 
-However, the confidence interval indicates that prices could vary between approximately **$473,000 and $521,000** due to flunctuation
-observed in historical data.
+  The forecast predicts that average property prices will likely remain stable around **$497,000** in the coming years. 
+  However, the confidence interval indicates that prices could vary between approximately **$473,000 and $521,000** due to flunctuation
+  observed in historical data.
 
 ## Investment Insights and Recommendations
 Based on the analysis, a few observations may help investors think about possible opportunities in the housing market.
