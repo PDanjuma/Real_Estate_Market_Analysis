@@ -64,19 +64,19 @@ A total of **4,901** property sales were recorded. New Haven and Hartford appear
 indicating stronger market activity in those towns.
 
 #### Highest Price per Square Foot
-Stamford and Norwalk have the highest property values per square foot, suggesting these towns have the most expensive real estate market
-relative to property size. In contrast, Danbury and New Haven show lower price per square foot, indicating more affordable housing markets.
+**Stamford and Norwalk** have the highest property values per square foot, suggesting these towns have the most expensive real estate market
+relative to property size. In contrast, **Danbury and New Haven** show lower price per square foot, indicating more affordable housing markets.
 
 #### Most Expensive Town
-Norwalk appears as the most expensive town based on average property prices. This suggests higher value properties in that area compared
+**Norwalk** appears as the most expensive town based on average property prices. This suggests higher value properties in that area compared
 to other towns.
 
 #### Top Selling Town
-New Haven recorded the highest number of property sales, indicating strong market activity and demand, which maybe driven by 
+**New Haven** recorded the highest number of property sales, indicating strong market activity and demand, which maybe driven by 
 lower price per square foot.
 
 #### Property Type Distribution
-The distribution of property sales shows that single-family homes and townhouses represent the largest portion of the market, indictaing
+The distribution of property sales shows that **single-family homes and townhouses** represent the largest portion of the market, indictaing
 buyer preference toward larger residential property types.
 
 #### Forcasting Property Market Trends
