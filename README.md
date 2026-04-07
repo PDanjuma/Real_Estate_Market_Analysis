@@ -1,4 +1,4 @@
-# Real Estate Market Analysis
+# Excel Real Estate Market Analysis
 Real estate investors and businesses often need reliable information before deciding where and when
 to invest in properties. Property prices, land values, and market activity can vary significantly from one town to another. Without proper analysis, investment decisions may rely mostly on assumptions rather than actual data.
 
