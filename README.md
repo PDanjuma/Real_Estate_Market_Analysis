@@ -59,6 +59,9 @@ The main steps includes;
   The average property price across the dataset is approximately **$500,619**. This indicates that the real estate market
   maintains relatively high property values across the towns analyzed.
 
+<img width="896" height="541" alt="image" src="https://github.com/user-attachments/assets/49503c69-f950-4d6a-821f-2023fd6510f5" />
+
+
 - #### Total Houses Sold
   A total of **4,901** property sales were recorded. New Haven and Hartford appear to have the highest number of transactions, 
   indicating stronger market activity in those towns.
