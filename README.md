@@ -62,9 +62,8 @@ The main steps includes;
 <img width="896" height="541" alt="image" src="https://github.com/user-attachments/assets/49503c69-f950-4d6a-821f-2023fd6510f5" />
 
 
-- #### Total Houses Sold
-  A total of **4,901** property sales were recorded. New Haven and Hartford appear to have the highest number of transactions, 
-  indicating stronger market activity in those towns.
+- #### Number of Property Sales Over Time
+ Property sales peaked in 2004 **(274)** and declined overall, reaching a low in 2015 **(223)**. Despite fluctuations, the trend suggests decreasing housing market activity over time.
 
   <img width="918" height="543" alt="image" src="https://github.com/user-attachments/assets/9c2411eb-01c7-481a-bcdd-d208b9c43a59" />
 
