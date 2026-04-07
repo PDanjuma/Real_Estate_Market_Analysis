@@ -66,26 +66,44 @@ The main steps includes;
   A total of **4,901** property sales were recorded. New Haven and Hartford appear to have the highest number of transactions, 
   indicating stronger market activity in those towns.
 
+  <img width="918" height="543" alt="image" src="https://github.com/user-attachments/assets/9c2411eb-01c7-481a-bcdd-d208b9c43a59" />
+
+
 - #### Highest Price per Square Foot
   **Stamford and Norwalk** have the highest property values per square foot, suggesting these towns have the most expensive real estate market
   relative to property size. In contrast, **Danbury and New Haven** show lower price per square foot, indicating more affordable housing markets.
+
+<img width="915" height="492" alt="image" src="https://github.com/user-attachments/assets/bcac01bb-390b-49fb-90b2-33287c9d0295" />
+
 
 - #### Most Expensive Town
   **Norwalk** appears as the most expensive town based on average property prices. This suggests higher value properties in that area compared
   to other towns.
 
+<img width="900" height="492" alt="image" src="https://github.com/user-attachments/assets/25c2e2a5-e356-47ff-9fd2-ab89ee687b50" />
+
+
 - #### Top Selling Town
   **New Haven** recorded the highest number of property sales, indicating strong market activity and demand, which maybe driven by 
   lower price per square foot.
+
+<img width="840" height="543" alt="image" src="https://github.com/user-attachments/assets/1558689b-2d06-4b70-b36c-d13da9e6ca05" />
+
 
 - #### Property Type Distribution
   The distribution of property sales shows that **townhouses and apartments** represent the largest portion of the market, 
   indictaing these property types are in high demand or most popular among buyers.
 
+<img width="844" height="498" alt="image" src="https://github.com/user-attachments/assets/ca8ec47b-1c06-4099-8f75-58ab1fc897f7" />
+
+
 - #### Forcasting Property Market Trends
   The forecast predicts that average property prices will likely remain stable around **$497,000** in the coming years. 
   However, the confidence interval indicates that prices could vary between approximately **$473,000 and $521,000** due to flunctuation
   observed in historical data.
+
+<img width="1280" height="1051" alt="image" src="https://github.com/user-attachments/assets/c66bebfd-0a78-4040-9869-2a564f86420d" />
+
 
 ## Investment Insights and Recommendations
 Based on the analysis, a few observations may help investors think about possible opportunities in the housing market.
