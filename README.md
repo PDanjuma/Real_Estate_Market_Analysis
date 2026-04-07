@@ -101,7 +101,7 @@ The main steps includes;
   However, the confidence interval indicates that prices could vary between approximately **$473,000 and $521,000** due to flunctuation
   observed in historical data.
 
-<img width="1280" height="1051" alt="image" src="https://github.com/user-attachments/assets/c66bebfd-0a78-4040-9869-2a564f86420d" />
+<img width="1213" height="585" alt="image" src="https://github.com/user-attachments/assets/074229ec-e871-42d0-8499-04d6acbe7e2d" />
 
 
 ## Investment Insights and Recommendations
